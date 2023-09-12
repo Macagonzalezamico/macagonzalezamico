@@ -5,6 +5,10 @@ Me especializo en Análisis de Datos y manejo las siguientes herramientas: Pytho
 
 Me encanta lo amplio que es el campo de la Ciencia de Datos, lo que ofrece y estoy entusiasmada por aprender y enfrentar nuevos desafíos.
 
+
+### 🌐 Redes sociales:
+
+https://www.linkedin.com/in/gonzalezamicomacarenalilian/
 <!--
 **Macagonzalezamico/macagonzalezamico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
