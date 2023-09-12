@@ -1,5 +1,10 @@
 ### 💫 Acerca de mí:
 
+¡Hola! Soy Macarena Gonzalez Amico, una apasionada la tecnología y los Datos.
+Me especializo en Análisis de Datos y manejo las siguientes herramientas: Python, SQL, Apache Spark, Docker, Hadoop, Tableau, Power BI, ETL, Machine Learning y Big Data.
+
+Me encanta lo amplio que es el campo de la Ciencia de Datos, lo que ofrece y estoy entusiasmada por aprender y enfrentar nuevos desafíos.
+
 <!--
 **Macagonzalezamico/macagonzalezamico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
