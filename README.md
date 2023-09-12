@@ -13,7 +13,7 @@ https://www.linkedin.com/in/gonzalezamicomacarenalilian/
 
 ### 💻 Pila de tecnología:
 
-Pitón, FastAPI, pandas, NumPy, Jira, Power BI, Docker, Matplotlib, mysql.
+Python, FastAPI, Pandas, NumPy, Jira, Power BI, Docker, Matplotlib, Mysql, Tableau, Excel.
 <!--
 **Macagonzalezamico/macagonzalezamico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
