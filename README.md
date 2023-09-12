@@ -8,7 +8,9 @@ Me encanta lo amplio que es el campo de la Ciencia de Datos, lo que ofrece y est
 
 ### 🌐 Redes sociales:
 
+Linkedin
 https://www.linkedin.com/in/gonzalezamicomacarenalilian/
+
 <!--
 **Macagonzalezamico/macagonzalezamico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
